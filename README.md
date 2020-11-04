@@ -1,2 +1,8 @@
 # Hangman-Game
-Play hangman with disney characters 
+Play hangman with Disney characters 
+
+|--
+|  O
+| /|\
+| / \
+----
